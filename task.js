@@ -1,3 +1,3 @@
 module.exports = function(cb) {
-  cb(null, 'WOOP');
+  cb(null, 'HULLO');
 };
